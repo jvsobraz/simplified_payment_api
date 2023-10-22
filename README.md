@@ -13,7 +13,6 @@ The Unit tests was developed during another [Youtube Tutorial](https://youtu.be/
 ## Table of Contents
 
 - [Installation](#installation)
-- [Configuration](#configuration)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Database](#database)
